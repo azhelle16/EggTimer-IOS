@@ -17,9 +17,11 @@ An application built to test our knowledge with the modules learned during the I
 
 <img src="Documentation/verticalLayout.png" alt="drawing" width="400"/>
 
-3. Application In The Work
+3. Application In The Work 
 
-[![Egg Timer](http://img.youtube.com/vi/yd6qzyN6Nbs/0.jpg)](http://www.youtube.com/watch?v=yd6qzyN6Nbs "IOS Egg TImer (Swift 5+)")
+[![Egg Timer](http://img.youtube.com/vi/yd6qzyN6Nbs/0.jpg)](http://www.youtube.com/watch?v=yd6qzyN6Nbs "IOS Egg Timer (Swift 5+)")
+
+<center>*Click on the image to watch the video.*</center>
 
 ## Note
 This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
