@@ -19,7 +19,7 @@ An application built to test our knowledge with the modules learned during the I
 
 3. Application In The Work
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yd6qzyN6Nbs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Egg Timer](http://img.youtube.com/vi/yd6qzyN6Nbs/0.jpg)](http://www.youtube.com/watch?v=yd6qzyN6Nbs "IOS Egg TImer (Swift 5+)")
 
 ## Note
 This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
