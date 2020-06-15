@@ -21,7 +21,7 @@ An application built to test our knowledge with the modules learned during the I
 
 [![Egg Timer](http://img.youtube.com/vi/yd6qzyN6Nbs/0.jpg)](http://www.youtube.com/watch?v=yd6qzyN6Nbs "IOS Egg Timer (Swift 5+)")
 
-<center>*Click on the image to watch the video.*</center>
+<center><i>Click on the image to watch the video.</i></center>
 
 ## Note
 This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
