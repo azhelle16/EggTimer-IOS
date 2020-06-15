@@ -5,7 +5,7 @@ An application built to test our knowledge with the modules learned during the I
 	- The Swift Timer API
 	- Conditional Statements (If-Else / Switch)
 	- Functions with Outputs
-	- How To Use THe ProgressView
+	- How To Use The ProgressView
 
 ## Screenshots
 
@@ -15,7 +15,7 @@ An application built to test our knowledge with the modules learned during the I
 
 2. Landscape Orientation
 
-![Vertical Layout](Documentation/verticalLayout.png)
+<img src="Documentation/verticalLayout.png" alt="drawing" width="400"/>
 
 3. Application In The Work
 
