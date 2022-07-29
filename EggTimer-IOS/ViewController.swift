@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var progressBar: UIProgressView!
     @IBOutlet weak var percLabel: UILabel!
     
-    let hardness : [String : Int] = ["soft":1, "medium":7, "hard":12]
+    let hardness : [String : Int] = ["soft":5, "medium":7, "hard":12]
     var countStart = 0
     var totalTime : Int = 0
     var timer = Timer()
