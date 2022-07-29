@@ -99,6 +99,7 @@ class ViewController: UIViewController {
             
         }
         
+        titleLabel.text = sender.currentTitle!.capitalized
         timer = Timer.scheduledTimer(timeInterval: 1.0, target: self, selector: #selector(update), userInfo: nil, repeats: true)
         
     }
